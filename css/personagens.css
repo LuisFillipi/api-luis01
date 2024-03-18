@@ -1,6 +1,6 @@
 body {
 font-family: Georgia, 'Times New Roman', Times, serif;
-background-image: url('../img/Valorant_Masters_capa.png');
+background-image: url('./img/Valorant_Masters_capa.png');
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
