@@ -1,6 +1,6 @@
 body {
 font-family: Arial, sans-serif;
-background-image: url('../img/fundoarma.jpg');
+background-image: url('./img/fundoarma.jpg');
 background-size: cover;
 background-position: center;
 background-attachment: fixed;
