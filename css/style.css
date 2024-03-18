@@ -1,7 +1,7 @@
 body {
 font-family: Arial, sans-serif;
 color: white;
-background-image: url('../img/Mizuri-Omen-Logo.jpg.png');
+background-image: url('./img/Mizuri-Omen-Logo.jpg.png');
 background-size: 205lvh;
 background-position: center;
 background-attachment: fixed;
